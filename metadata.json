@@ -1,0 +1,5 @@
+{
+  "name": "Flutter & React Explorer",
+  "description": "An interactive bridge for web developers to explore Flutter concepts through the lens of React, powered by Gemini AI for real-time code analogies and explanations.",
+  "requestFramePermissions": []
+}
